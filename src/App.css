@@ -36,7 +36,7 @@ nav ul {
   align-items: center;
   list-style: none;
   gap: 3rem;
-  background-color: rgb(58, 52, 52);
+  background-color: rgb(15, 14, 14);
   height: 100px;
   border-radius: 1rem;
 }
@@ -59,7 +59,7 @@ nav ul a:hover {
 /* header section */
 
 .header {
-  background-image:  url("https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-tablet_23-2148430857.jpg?w=996&t=st=1710402167~exp=1710402767~hmac=b265a225b791e2a92283abc9d001c6269466c3c30d11a80b8b7bfa9fe69e157f");
+  background-image:  url("https://i.pinimg.com/736x/30/8f/2f/308f2fd627c36e007527bc50337f6c7b.jpg");
   height: 100vh;
   background-size: cover;
   object-fit: cover;
