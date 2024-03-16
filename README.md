@@ -9,4 +9,4 @@ This web app has a sophisticated look taken from a design posted on an open sour
 - CSS (no framework)
 - Context API
 
-View this app live here 
+View this app live here https://shweta-jadhav-application.vercel.app/
